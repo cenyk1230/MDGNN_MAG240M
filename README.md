@@ -1,5 +1,6 @@
-# CogDL at MAG240M
-This is an implementation of CogDL for mag240m.
+# MDGNN for MAG240M-LSC 2022
+
+The code is about MDGNN solution for MAG240M-LSC 2022
 
 ## Getting Started
 ### Requirements
@@ -8,7 +9,6 @@ This is an implementation of CogDL for mag240m.
 * dgl-cuda111==0.7.0
 * ogb==1.3.4
 * sklearn==1.0.2
-<!-- * tsc-auto==0.28 -->
 
 
 ## Running this code
